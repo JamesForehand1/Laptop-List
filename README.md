@@ -26,3 +26,4 @@
 #### RAM: 8GB
 #### Hard Drive Storage: 512GB
 [Link](https://www.amazon.com/gp/product/B093TMFFC3?tag=rtings-lt-r-third-party-prime-20&ie=UTF8)
+![Acer Swift 3](Acer-Swift-3.jpg)
