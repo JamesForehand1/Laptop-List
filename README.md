@@ -8,3 +8,4 @@ RAM: 8 GB
 Hard Drive Storage: 512 GB
 
 ![Random Image](Lenovo-IdeaPad-3i.jpg)
+
