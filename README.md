@@ -16,5 +16,7 @@ CPU: AMD Athlon
 Num Processors: 1 Processor
 RAM: 4GB
 Hard Drive Storage: 128GB
+[Link](https://www.bestbuy.com/site/lenovo-ideapad-1-15-6-hd-laptop-athlon-silver-7120u-with-4gb-memory-128gb-ssd-cloud-grey/6531746.p?skuId=6531746)
+![Lenovo IdeaPad 1](Lenovo-IdeaPad-1.jpg)
 
 ### Name:
